@@ -1,6 +1,6 @@
 # Point Of Sell
 
-## Running
+## Running (updated)
 
 clone the website from github
 
